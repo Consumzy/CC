@@ -1,6 +1,7 @@
 # CC
 Repository capstone project for cloud computing cohort.
 
+# Endpoint Dokumentasi
 # **POST /register**
 
 - Deskripsi : Mendaftarkan pengguna baru.
