@@ -9,9 +9,9 @@
 - C149DSX3475 – Darren Jonathan – Universitas Bina Nusantara - CC
 - A166DSX2293 – Mochammad Pratama Wibawa – Universitas Diponegoro - MD
 
-URL : https://restful-api-service-hh2lgvepoq-et.a.run.app/
 
 # Endpoint Dokumentasi
+URL : https://restful-api-service-hh2lgvepoq-et.a.run.app/
 # **POST /register**
 
 - Deskripsi : Mendaftarkan pengguna baru.
