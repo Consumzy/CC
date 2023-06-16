@@ -1,6 +1,8 @@
 # CC
 Repository capstone project for cloud computing cohort.
 
+URL : https://restful-api-service-hh2lgvepoq-et.a.run.app/
+
 # Endpoint Dokumentasi
 # **POST /register**
 
