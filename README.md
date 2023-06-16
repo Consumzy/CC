@@ -12,6 +12,16 @@
 
 # Endpoint Dokumentasi
 URL : https://restful-api-service-hh2lgvepoq-et.a.run.app/
+### List Endpoint
+| Endpoint                                                                    | Method  | deskripsi  |
+|:----------------------------------------------------------------------------:|:--------:|:--------:|
+| https://restful-api-service-hh2lgvepoq-et.a.run.app/register                 | POST   |Mendaftarkan pengguna baru|
+| https://restful-api-service-hh2lgvepoq-et.a.run.app/login                    | POST   |Melakukan proses login pengguna|
+| https://restful-api-service-hh2lgvepoq-et.a.run.app/data                     | GET    |Mengambil data makanan berdasarkan token pengguna|
+| https://restful-api-service-hh2lgvepoq-et.a.run.app/data                     | POST   |Membuat data makanan baru|
+| https://restful-api-service-hh2lgvepoq-et.a.run.app/data/category/:category  | GET    |Mengambil data makanan berdasarkan kategori|
+| https://restful-api-service-hh2lgvepoq-et.a.run.app//data/upload/:foodId     | POST   |Mengunggah foto makanan|
+
 # **POST /register**
 
 - Deskripsi : Mendaftarkan pengguna baru.
