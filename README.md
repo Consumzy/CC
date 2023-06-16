@@ -1,5 +1,13 @@
-# CC
-Repository capstone project for cloud computing cohort.
+# **Team C23-PS116**
+
+## Team Member
+
+- M368DSX3286 – Dewa Nyoman Agung Adipurwa Mhandiri – Universitas Udayana - ML
+- M166DSY2515 – Shafira Diva Alifah – Universitas Diponegoro - ML
+- M166DKX4063 – Liem Christopher Jaya Mulyawan – Universitas Diponegoro - ML
+- C361DSX2013 – Andy Nuhgroho – Universitas Terbuka - CC
+- C149DSX3475 – Darren Jonathan – Universitas Bina Nusantara - CC
+- A166DSX2293 – Mochammad Pratama Wibawa – Universitas Diponegoro - MD
 
 URL : https://restful-api-service-hh2lgvepoq-et.a.run.app/
 
